@@ -11,5 +11,5 @@ h(j+1) for 1 < j < D - 1.
 Give an algorithm that calculates a plan for the company that minimizes its costs while fulﬁlling all the demand. 
 The running time should be polyomial in n and D.
 
-#Solution:
+# Solution:
 The code attached is coded in C++ programming language.
