@@ -13,3 +13,10 @@ The running time should be polyomial in n and D.
 
 # Solution:
 The code attached is coded in C++ programming language.
+
+# Steps:
+1- Provide the Number of Months.
+2- Provide the Number of Machines to be made.
+3- Provide the Cost of Part-time Labour.
+4- Calculate the Total Demand.
+5- Calculate the Optimized Cost.
